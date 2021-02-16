@@ -30,3 +30,5 @@ class DealerCards(object):
 
 PlayerHand = PlayerCards(card_number, card_number, card_number, card_number)
 print(PlayerHand.PlayerFirstCard, PlayerHand.PlayerSecondCard, PlayerHand.DealerUpCard, PlayerHand.DealerDownCard)
+
+#random change 2

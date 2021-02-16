@@ -2,7 +2,7 @@
 # Practice found here: http://introtopython.org/classes.html
 # Exercise found here: https://www.rithmschool.com/courses/python-fundamentals-part-2/python-object-oriented-programming-exercises
 
-
+#comment change here
 
 class Card:
     def __init__(self, suit, value):
