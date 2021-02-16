@@ -1,0 +1,8 @@
+#Blackjack project starting on January 7, 2021
+
+
+import numpy as numpy
+import pandas as pd 
+import random
+import matplotlib.pyplot as plt 
+import seaborn as sns
